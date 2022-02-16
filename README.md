@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxtamoian
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning sockets and system programming in general

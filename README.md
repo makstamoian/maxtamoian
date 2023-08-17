@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maxtamoian
 - 👀 I’m interested in C++, Node.js and Vue.js
-- 🌱 I’m currently learning sockets and system programming in general
+- 🌱 I’m currently learning Vue.js and Web development in general
